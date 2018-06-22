@@ -1,4 +1,3 @@
-# ![logo](080601_213535.png)
 ## Unk Linepy
 
 *LINE Messaging's private API*
