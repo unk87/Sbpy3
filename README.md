@@ -5,8 +5,7 @@
 ----
 
 ## Installation
-Installation is simple. It can be installed from pip using the following command:
-Install sederhana. Ini dapat diinstal dari pip menggunakan perintah berikut:
+Install sederhana. Anda dapat instal dari pip menggunakan perintah berikut:
 
 ```python -m pip install -r requirements.txt```
 
