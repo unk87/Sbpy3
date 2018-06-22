@@ -8,8 +8,7 @@
 Install sederhana. Anda dapat instal dari pip menggunakan perintah berikut:
 
 ```python -m pip install -r requirements.txt```
-
-## Credit By :
+## Remake By :
 Unkghe'/ [@􀨁􀄬ѕнιи¢нαи 􏿿􀜅􀅔􏿿](line.me/ti/p/~unk87)
 
 ##  Special Thx : 
